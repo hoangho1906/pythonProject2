@@ -12,7 +12,7 @@ class Car:
     #def set_speed(self):
     #    print(f"Current speed:{self.__speed}")
     #    return self.__speed
-    #def accelerate(self):
+    #def accelerate(se
 
     @property
     def speed(self):  #getter
